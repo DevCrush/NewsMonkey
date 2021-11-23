@@ -1,0 +1,266 @@
+{
+  "status": "ok",
+  "totalResults": 38,
+  "articles": [
+    {
+      "source": {
+        "id": "the-washington-post",
+        "name": "The Washington Post"
+      },
+      "author": "Jaclyn Peiser",
+      "title": "Auschwitz II-Birkenau barracks vandalized with antisemitic, Holocaust denying graffiti - The Washington Post",
+      "description": "The graffiti on the Auschwitz II-Birkenau barracks included « two references to the Old Testament, often used by antisemites, and denial slogans, » the museum said.",
+      "url": "https://www.washingtonpost.com/nation/2021/10/06/auschwitz-birkenau-vandalized-holocaust/",
+      "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/QPGYYHTAOUI6XILXO5S7FGUVEQ.jpg&w=1440",
+      "publishedAt": "2021-10-06T12:22:31Z",
+      "content": "Police have not yet made an arrest, though they are reviewing security tapes and analyzing the graffiti.\r\nSuch [an] incident an offense against the Memorial Site is, above all, an outrageous attack o… [+2869 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "ESPN Australia"
+      },
+      "author": "Mike Reiss",
+      "title": "New England Patriots releasing CB Stephon Gilmore; source says contract talks fell through - ESPN Australia",
+      "description": "The Patriots are releasing four-time Pro Bowl cornerback Stephon Gilmore, with a source telling ESPN that the sides could not agree to terms on a restructured contract.",
+      "url": "https://www.espn.com.au/nfl/story/_/id/32347469/new-england-patriots-releasing-cb-stephon-gilmore-contract-talks-fail-source-says",
+      "urlToImage": "https://a1.espncdn.com/combiner/i?img=%2Fphoto%2F2020%2F0716%2Fr720156_1296x729_16%2D9.jpg",
+      "publishedAt": "2021-10-06T12:10:15Z",
+      "content": "FOXBOROUGH, Mass. -- The New England Patriots are releasing four-time Pro Bowl cornerback Stephon Gilmore, with a source telling ESPN's Adam Schefter that the sides could not agree to terms on a rest… [+2520 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "New York Post"
+      },
+      "author": "Lee Brown",
+      "title": "Dog the Bounty Hunter's daughter calls Brian Laundrie hunt a 'publicity stunt' - New York Post ",
+      "description": "Cecily insisted that footage of Dog wading in swamp water “looks totally staged,” and laughed off his claims of making breakthroughs in the case.",
+      "url": "https://nypost.com/2021/10/06/dog-the-bounty-hunters-brian-laundrie-hunt-a-publicity-stunt-daughter/",
+      "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2021/10/dog-chapman.jpg?quality=90&strip=all&w=1024",
+      "publishedAt": "2021-10-06T12:03:00Z",
+      "content": "One of Dog the Bounty Hunter’s daughters has dismissed his high-profile pursuit of Brian Laundrie as a “publicity stunt.”\r\n“He needs to back off and let the FBI handle it,” Cecily Chapman, 28, told T… [+2608 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Gizmodo.com"
+      },
+      "author": "David Nield",
+      "title": "11 Things You Can Do in Windows 11 That You Couldn't Do Before - Gizmodo",
+      "description": "Microsoft's new operating system just launched, and here are all the new features you don't get in Windows 10.",
+      "url": "https://gizmodo.com/11-things-you-can-do-in-windows-11-that-you-couldnt-do-1847799230",
+      "urlToImage": "https://i.kinja-img.com/gawker-media/image/upload/c_fill,f_auto,fl_progressive,g_center,h_675,pg_1,q_80,w_1200/3138e1aee7e636a33b262bc43cc1b787.jpg",
+      "publishedAt": "2021-10-06T12:00:00Z",
+      "content": "The Windows 11 rollout is underway, with brand new PCs and newer hardware the first in line. If youre on an older machine, you might have to wait a few months to see an option to upgrade.\r\nWord of ca… [+5643 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "CNBC"
+      },
+      "author": "CNBC.com staff",
+      "title": "FA 100: CNBC ranks the top-rated financial advisory firms of 2021 - CNBC",
+      "description": "An advisor can play a major role in helping clients grow and protect their wealth. The key is to find an advisor you trust and is a good match for you.",
+      "url": "https://www.cnbc.com/2021/10/06/fa-100-cnbc-ranks-the-top-rated-financial-advisory-firms-of-2021.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/106949515-1632930325101-106949515-1632929566396-gettyimages-669591216-communicationwithbusinesspersoneps.jpeg?v=1633522098",
+      "publishedAt": "2021-10-06T11:59:42Z",
+      "content": "Finding the right financial advisor to help with your financial needs and goals can be complicated.\r\nThere are so many things to consider. Every financial advisor has his or her own area of expertise… [+1074 chars]"
+    },
+    {
+      "source": {
+        "id": "cnn",
+        "name": "CNN"
+      },
+      "author": "Luke McGee, CNN",
+      "title": "Inside Boris Johnson's post-Brexit bubble, where he's king of his party but cut off from reality - CNN",
+      "description": "Boris Johnson should be in trouble. There are very real challenges to everyday life unfolding all over Britain.",
+      "url": "https://www.cnn.com/2021/10/06/uk/boris-johnson-crises-party-conference-intl-cmd/index.html",
+      "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/211006064114-01-boris-johnson-conservative-party-conference-1006-super-tease.jpg",
+      "publishedAt": "2021-10-06T11:33:00Z",
+      "content": "Manchester, England (CNN)Boris Johnson should be in trouble. There are very real challenges to everyday life unfolding all over Britain.\r\nDrivers have been lining up at gas stations hoping to fill th… [+7232 chars]"
+    },
+    {
+      "source": {
+        "id": "usa-today",
+        "name": "USA Today"
+      },
+      "author": "Pete Caldera, USA TODAY",
+      "title": "Yankees ace Gerrit Cole pulled after six outs in AL wild-card game: 'Sick to my stomach' - USA TODAY",
+      "description": "Gerrit Cole, the Yankees ace, lasted only six outs against the Red Sox in the AL wild-card game. \"I didn't perform the way I wanted to,\" he said.",
+      "url": "https://www.usatoday.com/story/sports/mlb/yankees/2021/10/06/gerrit-cole-yankees-ace-pulled-red-sox-al-wild-card/6017487001/",
+      "urlToImage": "https://www.gannett-cdn.com/presto/2021/10/06/USAT/c1c7830f-b8b2-4540-bc95-4ad6b3dec2b1-USATSI_16897644.jpg?auto=webp&crop=3606,2029,x0,y303&format=pjpg&width=1200",
+      "publishedAt": "2021-10-06T11:17:45Z",
+      "content": "BOSTON – Six outs.\r\nThat’s all the New York Yankees received from their $324 million ace, at their most needful hour.\r\nThe fans at Fenway Park who filled the Tuesday night air with taunts of “Gerrrr-… [+1832 chars]"
+    },
+    {
+      "source": {
+        "id": "the-wall-street-journal",
+        "name": "The Wall Street Journal"
+      },
+      "author": "Joe Wallace",
+      "title": "Stock Futures Point to Fresh Selloff on Wall Street - The Wall Street Journal",
+      "description": "S&P 500 futures skid, bond yields rise as high energy prices add to jitters over inflation",
+      "url": "https://www.wsj.com/articles/global-stock-markets-dow-update-10-06-2021-11633505936",
+      "urlToImage": "https://images.wsj.net/im-412273/social",
+      "publishedAt": "2021-10-06T11:16:00Z",
+      "content": "U.S. stock futures fell and bond yields rose Wednesday, pointing to another bumpy day on Wall Street as investors gird for a spell of higher inflation, driven by roaring energy markets.Futures for th… [+3605 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "fox8.com"
+      },
+      "author": "Associated Press, Darcie Loreno",
+      "title": "Jaguars owner reprimands Urban Meyer for ‘inexcusable’ behavior caught on video at Ohio bar - WJW FOX 8 News Cleveland",
+      "description": "JACKSONVILLE, Fla. (AP/WJW) — Jacksonville Jaguars owner Shad Khan publicly reprimanded Urban Meyer on Tuesday for the coach’s “inexcusable” behavior at an Ohio bar over the weekend. Meyer’s actions were the latest embarrassment for a franchise that’s been mo…",
+      "url": "https://fox8.com/news/jaguars-owner-reprimands-urban-meyer-for-inexcusable-behavior-caught-on-video-at-ohio-bar/",
+      "urlToImage": "https://fox8.com/wp-content/uploads/sites/12/2021/10/meyer-urban-100421.jpg?w=1280",
+      "publishedAt": "2021-10-06T11:05:24Z",
+      "content": "JACKSONVILLE, Fla. (AP/WJW) — Jacksonville Jaguars owner Shad Khan publicly reprimanded Urban Meyer on Tuesday for the coachs inexcusable behavior at an Ohio bar over the weekend. Meyers actions were… [+3907 chars]"
+    },
+    {
+      "source": {
+        "id": "cnn",
+        "name": "CNN"
+      },
+      "author": "Liz Stark, CNN",
+      "title": "US Department of Education overhauls Public Service Loan Forgiveness program - CNN",
+      "description": "The US Department of Education announced major changes Wednesday to a federal student loan forgiveness program that the agency says could bring relief to thousands of borrowers working in government and nonprofit sectors.",
+      "url": "https://www.cnn.com/2021/10/06/politics/public-service-loan-forgiveness-program-overhaul/index.html",
+      "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/211006065959-university-massachusetts-boston-graduation-082621-file-restricted-super-tease.jpg",
+      "publishedAt": "2021-10-06T11:05:00Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": "cnn",
+        "name": "CNN"
+      },
+      "author": "Ryan Nobles, Zachary Cohen and Annie Grayer, CNN",
+      "title": "House committee investigating January 6 can't find Trump aide to serve subpoena - CNN",
+      "description": "More than a week after subpoenaing former Donald Trump aide Dan Scavino to cooperate with its investigation into the January 6 riot at the US Capitol, the House select committee investigating the attack has been unable to physically serve the subpoena to him,…",
+      "url": "https://www.cnn.com/2021/10/05/politics/house-committee-january-6-subpoena-serve-dan-scavino/index.html",
+      "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/200827210620-rnc-2020-dan-scavino-0827-super-tease.jpg",
+      "publishedAt": "2021-10-06T10:51:00Z",
+      "content": "Washington (CNN)More than a week after subpoenaing former Donald Trump aide Dan Scavino to cooperate with its investigation into the January 6 riot at the US Capitol, the House select committee inves… [+3648 chars]"
+    },
+    {
+      "source": {
+        "id": "usa-today",
+        "name": "USA Today"
+      },
+      "author": "Kelly Tyko, USA TODAY",
+      "title": "Home Depot online orders will soon be delivered through Walmart's new white-label service - USA TODAY",
+      "description": "Home Depot shoppers will soon be able to get their same-day or next-day online orders delivered by Walmart's GoLocal service, the two retailers said.",
+      "url": "https://www.usatoday.com/story/money/shopping/2021/10/06/walmart-home-depot-golocal-delivery-service-online-orders-partnership/6013008001/",
+      "urlToImage": "https://www.gannett-cdn.com/presto/2021/09/02/PPHX/214c6eb3-2f9d-4e53-a265-0d41cf20efd2-AP21053699692154.jpg?auto=webp&crop=1023,576,x0,y153&format=pjpg&width=1200",
+      "publishedAt": "2021-10-06T10:45:45Z",
+      "content": "Home Depot is adding a new way for do-it-yourselfers and professional contractors to pick up nuts, screws, tools and paint for home improvement projects quickly: Get them delivered by Walmart.\r\nTwo o… [+2703 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "The Guardian"
+      },
+      "author": "Dan Milmo",
+      "title": "Mark Zuckerberg hits back at Facebook whistleblower claims - The Guardian",
+      "description": "Frances Haugen’s testimony that social networking company puts profit before people ‘just not true’",
+      "url": "https://amp.theguardian.com/technology/2021/oct/06/mark-zuckerberg-hits-back-at-facebook-whistleblower-frances-haugen-claims",
+      "urlToImage": null,
+      "publishedAt": "2021-10-06T10:03:00Z",
+      "content": "Mark ZuckerbergFrances Haugens testimony that social networking company puts profit before people just not true\r\nMark Zuckerberg has hit back at the testimony of the Facebook whistleblower Frances Ha… [+4189 chars]"
+    },
+    {
+      "source": {
+        "id": "the-washington-post",
+        "name": "The Washington Post"
+      },
+      "author": "Jeff Stein",
+      "title": "Biden summons bank CEOs, other business leaders as debt ceiling showdown with GOP escalates - The Washington Post",
+      "description": "The White House has warned of dire economic consequences if the borrowing limit isn’t increased.",
+      "url": "https://www.washingtonpost.com/us-policy/2021/10/06/white-house-debt-ceiling/",
+      "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/ROFFRLRGDII6ZBZZLS3KXIYKGA.jpg&w=1440",
+      "publishedAt": "2021-10-06T09:32:06Z",
+      "content": "Also expected in attendance either virtually or in person are Treasury Secretary Janet L. Yellen, Commerce Secretary Gina Raimondo and White House senior adviser Cedric L. Richmond. Chief executives … [+4149 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "NPR"
+      },
+      "author": null,
+      "title": "Pope Francis expresses shame at the scale of child sexual abuse by clergy in France - NPR",
+      "description": "The pope spoke about a report released Tuesday that estimated some 330,000 French children were abused by clergy and other church authority figures dating back to 1950.",
+      "url": "https://www.npr.org/2021/10/06/1043610660/pope-expresses-shame-at-scale-of-clergy-abuse-in-france",
+      "urlToImage": "https://media.npr.org/assets/img/2021/10/06/ap21279277396064_wide-55991aee398330a95e9614c81f678e69a8f989fc.jpg?s=1400",
+      "publishedAt": "2021-10-06T09:14:46Z",
+      "content": "Pope Francis listens to speeches during his weekly general audience in the Pope Paul VI hall at the Vatican, Wednesday, Oct. 6, 2021.\r\nAlessandra Tarantino/AP\r\nVATICAN CITY Pope Francis expressed \"sh… [+2822 chars]"
+    },
+    {
+      "source": {
+        "id": "the-washington-post",
+        "name": "The Washington Post"
+      },
+      "author": "Bryan Pietsch",
+      "title": "NASA DART mission shooting rocket at asteroid in test of 'planetary defense' - The Washington Post",
+      "description": "NASA's DART experiment aims to stop future asteroids from hitting Earth.",
+      "url": "https://www.washingtonpost.com/technology/2021/10/06/nasa-asteroid-dart-dimorphos/",
+      "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/EH2KYCBGOYI6ZBZZLS3KXIYKGA.jpg&w=1440",
+      "publishedAt": "2021-10-06T09:06:16Z",
+      "content": "NASA is targeting a pair of asteroids that orbit the sun and occasionally come close to Earth. The asteroids dont come close enough to pose a threat, NASA says, but their proximity makes them a prime… [+2113 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "New York Times"
+      },
+      "author": "Yan Zhuang",
+      "title": "A Sea of White Faces in Australia’s ‘Party of Multiculturalism’ - The New York Times",
+      "description": "A young daughter of Vietnamese refugees was set to run for Parliament. Then she was passed over for a white insider, and a debate over cultural diversity flared into the open.",
+      "url": "https://www.nytimes.com/2021/10/06/world/australia/labor-party-diversity.html",
+      "urlToImage": "https://static01.nyt.com/images/2021/10/01/world/00oz-diversity1/00oz-diversity1-facebookJumbo.jpg",
+      "publishedAt": "2021-10-06T09:00:23Z",
+      "content": "Ms. Keneally moved to the safe Labor seat, with the backing of party leaders, because she was in danger of losing her current seat. Her backers also note that she has been endorsed by a handful of Vi… [+1296 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "NPR"
+      },
+      "author": "",
+      "title": "Abu Zubaydah case is at the US Supreme Court - NPR",
+      "description": "The case's central issue concerns whether a Guantánamo Bay detainee who has never been charged with a crime can subpoena testimony from the CIA contractors who supervised his torture.",
+      "url": "https://www.npr.org/2021/10/06/1043484190/supreme-court-considers-whether-cias-black-sites-are-state-secrets",
+      "urlToImage": "https://media.npr.org/assets/img/2021/10/05/ap_110308197547_wide-af1739415882dc6fef8dbe153000c5df10555404.jpg?s=1400",
+      "publishedAt": "2021-10-06T09:00:00Z",
+      "content": "Abu Zubaydah, who has never been charged, is held at Guantánamo Bay, Cuba. He is at the center of Wednesday's case before the U.S. Supreme Court.\r\nBrennan Linsley/AP\r\nThe U.S. Supreme Court will hear… [+4482 chars]"
+    },
+    {
+      "source": {
+        "id": "the-verge",
+        "name": "The Verge"
+      },
+      "author": "Jon Porter",
+      "title": "HMD’s Nokia is getting into Android tablets with the $249.99 T20 - The Verge",
+      "description": "HMD is releasing its first Android tablet under the Nokia brand name. The T20 starts at $249.99 in the US where it will be available from November 17th, while in the UK the tablet will be available from today starting at £179.99.",
+      "url": "https://www.theverge.com/2021/10/6/22711065/hmd-nokia-t20-android-tablet-10-4-inch-screen",
+      "urlToImage": "https://cdn.vox-cdn.com/thumbor/p1ZNPdK90tlbZUxm7djiq5noFbY=/0x605:8448x5028/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/22902857/Nokia_T20_00000269_v1.jpg",
+      "publishedAt": "2021-10-06T09:00:00Z",
+      "content": "A 10.4-inch tablet with three years of security updates\r\nThe 10.4-inch tablet.\r\nImage: HMD\r\nAfter years of focusing on phones, HMD is releasing its first Android tablet under the Nokia brand name som… [+2082 chars]"
+    },
+    {
+      "source": {
+        "id": "the-washington-post",
+        "name": "The Washington Post"
+      },
+      "author": "Christian Shepherd, Lyric Li",
+      "title": "Chinese jets menace Taiwan, pressuring U.S. support of island's defenses - The Washington Post",
+      "description": "The displays of military strength place the democratic island at the center of efforts by the United States and its allies to counter Beijing’s aggression.",
+      "url": "https://www.washingtonpost.com/world/asia_pacific/china-taiwan-warplanes-military/2021/10/06/9873c05a-2584-11ec-8739-5cb6aba30a30_story.html",
+      "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/4NRHHBBGOEI6ZHPICVX62PUBX4.jpg&w=1440",
+      "publishedAt": "2021-10-06T08:48:03Z",
+      "content": "On Monday alone, 56 aircraft, including 38 J-16 fighter jets and a dozen H-6 bombers, made sorties into the Taiwan-monitored zone, starting early in the morning, and finishing late at night. In some … [+8381 chars]"
+    }
+  ]
+}
